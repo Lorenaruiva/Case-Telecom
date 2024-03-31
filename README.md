@@ -1,10 +1,14 @@
 # Case-Telecom🎲
 📚Uma analise critica Scrum sobre a case da Telecom para o desafio da Dio
+
 A British Telecom se viu  às voltas com uma crise interna de proporções significativas, à medida que seu modelo antiquado de gerenciamento de projetos em cascata demonstra-se exaustivo para sua equipe de colaboradores e impactante para os cofres da empresa.
 Os problemas decorrentes do modelo de gerenciamento em cascata haviam deixado a British Telecom em estado de alerta. A abordagem tradicional, que segue uma sequência linear de etapas, desde o levantamento de requisitos até a implementação final, tem se mostrado cada vez mais desgastante para os colaboradores da empresa. Além disso, a rigidez desse método contribuiu para o esgotamento do orçamento da empresa, criando uma situação de crise interna.
 Com a chegada do novo CIO e a adoção de metodologias ágeis como XP, 90-day, e alguns eventos do Scrum, houve uma mudança de foco para priorizar o valor de negócio do produto em detrimento da documentação extensiva. Isso resultou em maior envolvimento dos clientes e interações mais frequentes, o que gerou os seguintes resultados:
+
 🔷 Melhoria na priorização dos itens, visando maximizar o valor de negócio.
+
 🔷 Redução do ciclo de entrega de 12 meses para 90 dias.
+
 🔷Aumento da moral da equipe, que passou a perceber o valor do trabalho realizado. Além disso, foram implementadas bonificações e promoções com base nas metas alcançadas.
 
 
@@ -23,7 +27,7 @@ Transformação do Projeto:
 Resultados:
 A aplicação do framework Scrum levou a uma transformação significativa no projeto da Empresa Telecom. Eles conseguiram entregar software de alta qualidade dentro dos prazos estabelecidos, o que resultou em clientes mais satisfeitos e uma reputação melhorada no mercado. Além disso, a equipe estava mais engajada e motivada, resultando em maior produtividade e retenção de talentos.
 
-                                              🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+                                          
 Se eu estivesse conduzindo esse projeto, poderia considerar algumas abordagens adicionais para otimizar ainda mais a implementação do framework Scrum:
 
 
@@ -36,7 +40,10 @@ Se eu estivesse conduzindo esse projeto, poderia considerar algumas abordagens a
 ⚪ Integração de Práticas Ágeis Complementares: Explorar e integrar práticas ágeis complementares, como Test-Driven Development (TDD), Continuous Integration (CI) e Continuous Delivery (CD), para fortalecer ainda mais a qualidade do produto e a eficiência do processo de desenvolvimento.
 
 ⚪Envolvimento Proativo dos Stakeholders: Promover uma colaboração mais estreita e proativa com os stakeholders do projeto, envolvendo-os mais ativamente no processo de desenvolvimento e garantindo que suas necessidades e expectativas sejam adequadamente compreendidas e incorporadas ao backlog do produto.
+
 Essas abordagens adicionais poderiam complementar a implementação do Scrum, fortalecendo ainda mais os benefícios obtidos e impulsionando a transformação do projeto de forma mais abrangente.
+
+   🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
 
 
